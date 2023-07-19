@@ -123,6 +123,67 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &589063907
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 431d81f8330ae21499e16f806f42cc77, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 431d81f8330ae21499e16f806f42cc77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.1132092
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 431d81f8330ae21499e16f806f42cc77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 431d81f8330ae21499e16f806f42cc77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.760225
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 431d81f8330ae21499e16f806f42cc77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 431d81f8330ae21499e16f806f42cc77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 431d81f8330ae21499e16f806f42cc77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 431d81f8330ae21499e16f806f42cc77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 431d81f8330ae21499e16f806f42cc77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 431d81f8330ae21499e16f806f42cc77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 431d81f8330ae21499e16f806f42cc77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6656109148682164412, guid: 431d81f8330ae21499e16f806f42cc77, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a50c09d703852a243875068e69f94498, type: 2}
+    - target: {fileID: 919132149155446097, guid: 431d81f8330ae21499e16f806f42cc77, type: 3}
+      propertyPath: m_Name
+      value: SteampunkStaff_015
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 431d81f8330ae21499e16f806f42cc77, type: 3}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -301,64 +362,3 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1892403449
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 06135c100b12d254e841c533765d21da, type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 06135c100b12d254e841c533765d21da, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 2.190849
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 06135c100b12d254e841c533765d21da, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 06135c100b12d254e841c533765d21da, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 2.8269649
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 06135c100b12d254e841c533765d21da, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 06135c100b12d254e841c533765d21da, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 06135c100b12d254e841c533765d21da, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 06135c100b12d254e841c533765d21da, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 06135c100b12d254e841c533765d21da, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 06135c100b12d254e841c533765d21da, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 06135c100b12d254e841c533765d21da, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -6656109148682164412, guid: 06135c100b12d254e841c533765d21da, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: a50c09d703852a243875068e69f94498, type: 2}
-    - target: {fileID: 919132149155446097, guid: 06135c100b12d254e841c533765d21da, type: 3}
-      propertyPath: m_Name
-      value: Steampunk Staff_015 (Texture)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 06135c100b12d254e841c533765d21da, type: 3}
